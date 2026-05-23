@@ -185,4 +185,7 @@ El scraper funciona como proyecto técnico y demuestra una extracción real con 
 
 ## Autor
 
-Proyecto desarrollado por [Alessandro Staiano Fernández](https://github.com/alessandrostfr) como parte de su portfolio técnico de desarrollo web, automatización y scraping.
+Proyecto desarrollado por **Alessandro Staiano Fernández** como parte de su portfolio técnico de desarrollo web, automatización y scraping.
+
+- GitHub: [@alessandrostfr](https://github.com/alessandrostfr)
+- LinkedIn: [alessandrostfr](https://www.linkedin.com/in/alessandrostfr/)
