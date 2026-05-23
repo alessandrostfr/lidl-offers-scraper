@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+Lib/
+Scripts/
+pyvenv.cfg
+
+# Local environment
+.env
+.env.*
+!.env.example
+
+# Selenium / drivers / browser artifacts
+.wdm/
+chromedriver*
+*.log
+
+# Generated data
+*.csv
+!assets/examples/*.csv
+old_csvs/
+productos_lidl_descuentos_final.csv
+
+# Debug HTML snapshots
+html_resources/
+pagina.html
+*.html
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
